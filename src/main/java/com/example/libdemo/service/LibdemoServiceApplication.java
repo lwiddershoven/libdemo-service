@@ -1,4 +1,4 @@
-package com.example.libdemo_service;
+package com.example.libdemo.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
